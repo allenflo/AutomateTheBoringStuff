@@ -16,6 +16,7 @@ split = int(input("How many peole to split the bill? "))
 tip = (percentTip / 100) * total
 tip = round(tip, 2)
 
+
 #Calulate total bill amount
 totalBill = total + tip
 
@@ -26,6 +27,8 @@ each = totalBill / split
 
 eachPay = round(each, 2)
 
-print(f"The tip amount to add to the bill is {tip}")
-print(f"The total bill including tip is: ${totalBill}")
-print(f"Each of the {split} guests should pay:  ${eachPay}")
+
+#Printing totals with Fstrings allowing for formating to 2 decimals for currency.
+print(f"The tip amount to add to the bill is {tip:.2f}")
+print(f"The total bill including tip is: ${totalBill:.2f}")
+print(f"Each of the {split} guests should pay:  ${eachPay:.2f}")
