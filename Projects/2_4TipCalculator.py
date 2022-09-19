@@ -7,24 +7,25 @@
 
 print("Welcome to the Tip Calculator")
 
-print("Wecome to the tip calculator")
-total = input("What was the total bill? $")
-percentTip = input("What percent of tip would you like to give? %")
-split = input("How many peole to split the bill? ")
+total = float(input("What was the total bill? $"))
+percentTip = int(input("What percent of tip would you like to give? %"))
+split = int(input("How many peole to split the bill? "))
 
 
 #Calculate tip amount
-tip = (int(percentTip) / 100) * float(total)
-
+tip = (percentTip / 100) * total
+tip = round(tip, 2)
 
 #Calulate total bill amount
-totalBill = total + float(tip)
+totalBill = total + tip
 
 #Split total bill
-each = totalBill / int(split)
+each = totalBill / split
 
 #Round to 2 decimals
 
-eachPay = float(round(each, 2))
+eachPay = round(each, 2)
 
-print(f"Each person should pay:  ${eachPay}")
+print(f"The tip amount to add to the bill is {tip}")
+print(f"The total bill including tip is: ${totalBill}")
+print(f"Each of the {split} guests should pay:  ${eachPay}")
