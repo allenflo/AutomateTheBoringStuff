@@ -22,6 +22,11 @@ else:
     finalbmi = int(bmi)
     print("Your BMI is " + str(finalbmi))
 
+
+
+#Elif statements could cascade down without having to use and statements but....
+#wanted to be more specific.
+
 if finalbmi < 18.5:
     print("Your BMI indicates that you are Underweight")
 
@@ -33,5 +38,9 @@ elif finalbmi > 30 and finalbmi <35:
 
 elif finalbmi > 35:
     print("Your BMI indicates that you are Obese")
+
+
+
+
 
     
