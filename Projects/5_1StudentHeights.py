@@ -18,7 +18,7 @@ print(sum)
 
 print(number)
 
-average = sum / number
+average = round(sum / number)
 
 print(f"The average score is {average}")
 
