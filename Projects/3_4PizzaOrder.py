@@ -6,7 +6,7 @@ pepperoni = input("Do you want pepperoni? Y or N ")
 extraCheese = input("Do you want extra cheese? Y or N ")
 
 
-bill = float(0)
+bill = 0
 
 if size == "S":
     bill = 15
