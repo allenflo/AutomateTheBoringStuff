@@ -6,23 +6,23 @@ print("Welcome to the Love Calculator")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
 
-name1 = name1.lower()
-name2 = name2.lower()
+combinedName = name1 + name2
 
-print(name1)
-print(name2)
+combinedName = combinedName.lower()
 
-t = name1.count("t")
-r = name1.count("r")
-u = name1.count("u")
-e = name1.count("e")
+print(combinedName)
+
+t = combinedName.count("t")
+r = combinedName.count("r")
+u = combinedName.count("u")
+e = combinedName.count("e")
 
 true = t + r + u + e
 
-l = name2.count("l")
-o = name2.count("o")
-v = name2.count("v")
-ee = name2.count("e")
+l = combinedName.count("l")
+o = combinedName.count("o")
+v = combinedName.count("v")
+ee = combinedName.count("e")
 
 love = l + o + v + ee
 
@@ -39,6 +39,8 @@ else:
     print(f"Your score is {score}")
 
 
+
+#I don't think the game rules were correct.  double digits are higly likely when combining the names
 
 
 
