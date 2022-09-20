@@ -1,4 +1,5 @@
 #This program will let user enter names to a list and then one will be randomly chosen
+#Coulduse random.choice() but this project was testing specific things
 
 import random
 
