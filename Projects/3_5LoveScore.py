@@ -12,8 +12,6 @@ combinedName = name1 + name2
 #convert to lower case
 combinedName = combinedName.lower()
 
-print(combinedName)
-
 t = combinedName.count("t")
 r = combinedName.count("r")
 u = combinedName.count("u")
