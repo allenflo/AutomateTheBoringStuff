@@ -11,7 +11,7 @@ sum = 0
 number = 0
 
 for total in student_heights:
-    sum = sum + total
+    sum += total
     number += 1
      
 print(sum)
