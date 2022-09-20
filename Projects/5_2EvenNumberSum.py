@@ -1,8 +1,8 @@
 #This code will sum all even numbers between 1 and 100
 
 sum = 0
-for i in range(2, 101, 2):
-    sum = sum + i
+for number in range(2, 101, 2):
+    sum += number
 print(f"{sum}")
 
 
