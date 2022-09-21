@@ -40,3 +40,4 @@ newPassword = alphapass + numpass + sympass
 print(newPassword)
 
 
+
