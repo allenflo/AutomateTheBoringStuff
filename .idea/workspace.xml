@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f199a8c7-0b9b-4d73-a0b4-9e6ee33f5d8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Projects/coffeeMachine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/10_1DayInTheMonth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Day10/10_1DayInTheMonth.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/10_1FunctionsWithOutputs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Day10/10_1FunctionsWithOutputs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/10_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Day10/10_Calculator.py" afterDir="false" />
@@ -33,6 +35,11 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Allen\OneDrive\Dev\AutomateTheBoringStuff\Projects\Day10" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
