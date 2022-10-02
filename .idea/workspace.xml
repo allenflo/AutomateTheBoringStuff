@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f199a8c7-0b9b-4d73-a0b4-9e6ee33f5d8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ZTM_100_Projects/VariableUpdating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZTM_100_Projects/5_SequenceIndexing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZTM_100_Projects/TypeError.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GuessTheNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/GuessTheNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/Day1/1_1BandNameGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day1/1_1BandNameGenerator.py" afterDir="false" />
@@ -47,6 +48,7 @@
       <change beforePath="$PROJECT_DIR$/Projects/Day9/SilentAuction/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day9/SilentAuction/art.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/TimeZone.Py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/TimeZone.Py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/coffeeMachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/coffeeMachine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZTM_100_Projects/VariableUpdating.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZTM_100_Projects/VariableUpdating.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/firstProgram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
