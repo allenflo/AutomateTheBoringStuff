@@ -5,11 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f199a8c7-0b9b-4d73-a0b4-9e6ee33f5d8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/coffeeMachine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/10_1DayInTheMonth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Day10/10_1DayInTheMonth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/10_1FunctionsWithOutputs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Day10/10_1FunctionsWithOutputs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/10_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Day10/10_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuessTheNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/GuessTheNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day1/1_1BandNameGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day1/1_1BandNameGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day10/10_1DayInTheMonth.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day10/10_1DayInTheMonth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day10/10_1FunctionsWithOutputs.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day10/10_1FunctionsWithOutputs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day10/10_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day10/10_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day2/2 TipCaluclator.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day2/2 TipCaluclator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day2/2_1AddDigits.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day2/2_1AddDigits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day2/2_2BodyMassIndexCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day2/2_2BodyMassIndexCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day2/2_3YourLifeInWeeks.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day2/2_3YourLifeInWeeks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day2/2_4TipCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day2/2_4TipCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day3/3_1EvenOrOdd.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day3/3_1EvenOrOdd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day3/3_2BMI2.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day3/3_2BMI2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day3/3_3LeapYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day3/3_3LeapYear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day3/3_4PizzaOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day3/3_4PizzaOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day3/3_5LoveScore.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day3/3_5LoveScore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day4/4_1HeadsOrTails.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day4/4_1HeadsOrTails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day4/4_2WhoPays.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day4/4_2WhoPays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day4/4_4RockPaperScissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day4/4_4RockPaperScissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day5/5_1StudentHeights.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day5/5_1StudentHeights.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day5/5_2EvenNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day5/5_2EvenNumberSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day5/5_3FIZZBUZZ.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day5/5_3FIZZBUZZ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day5/5_4PasswordGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day5/5_4PasswordGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day6/6_1Maze.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day6/6_1Maze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day6/6_ReeborgJump.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day6/6_ReeborgJump.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day8/8_1PaintCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day8/8_1PaintCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day8/8_2PrimeChecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day8/8_2PrimeChecker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day8/8_3CaesarCypher.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day8/8_3CaesarCypher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day8/Hangman/StepBreakdown/CheckLetter.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day8/Hangman/StepBreakdown/CheckLetter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day8/Hangman/StepBreakdown/chooseWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day8/Hangman/StepBreakdown/chooseWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day8/Hangman/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day8/Hangman/hangman_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day8/Hangman/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day8/Hangman/hangman_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day8/Hangman/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day8/Hangman/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day9/9_1GradingExercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day9/9_1GradingExercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day9/9_2GradingExercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day9/9_2GradingExercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day9/9_3GradingExercide.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day9/9_3GradingExercide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day9/9_4.GradingExercisepy" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day9/9_4.GradingExercisepy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day9/SilentAuction/SilentAuction.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day9/SilentAuction/SilentAuction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Day9/SilentAuction/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/Day9/SilentAuction/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/TimeZone.Py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/TimeZone.Py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/coffeeMachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/coffeeMachine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_Days_Python/firstProgram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Allen\OneDrive\Dev\AutomateTheBoringStuff\100_Days_Python" />
       <recent name="C:\Users\Allen\OneDrive\Dev\AutomateTheBoringStuff\Projects\Day10" />
     </key>
   </component>
