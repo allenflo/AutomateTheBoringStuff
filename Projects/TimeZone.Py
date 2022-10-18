@@ -2,7 +2,7 @@ ArizonaTime = input("What time is it in Arizona rounded to next hour: ")
 ColumbiaTime = int(ArizonaTime) + 2
 FranceTime = int(ArizonaTime) + 9
 NetherlandsTime = int(ArizonaTime) + 9
-IndiaTime = int(ArizonaTime) + 12.59
+IndiaTime = int(ArizonaTime) + 12.50
 
 NewZealandTime = int(ArizonaTime) + 13
 
