@@ -19,7 +19,7 @@ arizona_time = int(input("What time is it in Arizona rounded to next hour: "))
 
 for time in (gmt_offset):
     local_time = gmt_offset[time] + (arizona_time)
-    print(local_time)
+    print(f" {local_time}")
 
 
 
