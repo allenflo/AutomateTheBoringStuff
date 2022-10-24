@@ -22,7 +22,7 @@ while tries > 0:
     guess = int(guess)
     if guess == number:
         print(f"You got it!  The answer was {number}")
-        tries = 0
+        exit()
     else:
         if guess < number:
             print("Too Low")
@@ -30,6 +30,8 @@ while tries > 0:
             print("Too High")
         print("Guess again.")
     tries -= 1
+print(f"You are all out of tries.  The number was {number}")
+
 
 
 
