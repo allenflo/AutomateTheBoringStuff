@@ -1,16 +1,16 @@
-import art
-import random
+from art import logo
+from random import randint
 
-
-print(art.logo)
-number = random.randint(1, 101)
+print(logo)
+number = randint(1, 100)
 
 #Into Wording
 print("Welcome to the Number Guessing Game!")
 print("I'm thinking of a number between 1 and 100.")
-print(f"Pssst, the correct answer is {number}")
+# print(f"Pssst, the correct answer is {number}")
 difficulty = input("Choose a difficulty.  Type 'easy' or 'hard': ")
 
+#Set Difficulty
 if difficulty == "easy":
     tries = 10
 else:
@@ -18,8 +18,7 @@ else:
 
 while tries > 0:
     print(f"You have {tries} attempts remaining to guess the number")
-    guess = input("Make a guess: ")
-    guess = int(guess)
+    guess = int(input("Make a guess: "))
     if guess == number:
         print(f"You got it!  The answer was {number}")
         exit()
