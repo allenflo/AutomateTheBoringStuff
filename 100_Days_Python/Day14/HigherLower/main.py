@@ -1,54 +1,67 @@
-from game_data import data
 from art import logo, vs
+from game_data import data
 import random
+from replit import clear
 
 
-score = 0
+def format_data(account):
+  """ Format Account Data into printable format """
+  account_name = account["name"]
+  account_descr = account["description"]
+  account_country = account["country"]
+  return (f"{account_name}, a {account_descr}, from {account_country}")
 
-
-
-
-
+def check_answer(guess, a_followers, b_followers):
+  """Take the user guess and follower counts and returns if they got it right"""
+  if a_followers > b_followers:
+    return guess == "a"
+  else:
+    return guess == "b"
 
 #Display Art
 print(logo)
+score=0
+game_should_continue = True
+account_b = random.choice(data)
 
-# Pull Number of items out of database
-total_items = (len(data))
+while game_should_continue == True:
+# Generate a random account from the game data.
+  account_a = account_b
+  account_b = random.choice(data)
+  while account_a == account_b:
+    account_b = random.choice(data)
 
-# Assign random choices to A and B
-choice_a = random.randint(1, total_items)
-choice_b = random.randint(1, total_items)
-# Check to make sure choices are not equal or pick new choice
-while choice_b == choice_a:
-    choice_b = random.randint(1, total_items)
+  
+    
+  #Display starting choices
+  print(f"Compare A: {format_data(account_a)}.")
+  print(vs)
+  print(f"Against B: {format_data(account_b)}.")
 
-print(f"Compare A:{data[choice_a]['name']}, a {data[choice_a]['description']}, from {data[choice_a]['country']}")
-print(vs)
-print(f"Against B:{data[choice_b]['name']}, a {data[choice_b]['description']}, from {data[choice_b]['country']}")
+  #Ask for user guess
+  guess = input("Who has more followers? Type 'A' or 'B': ").lower()
 
-# Player Choice
-player_choice = input("Who has more followers?  Type 'A' or 'B': ")
-player_choice = player_choice.upper()
+  #Check if user is correct
+  a_follower_count = account_a["follower_count"]
+  b_follower_count = account_b["follower_count"]
 
-# Get Followers
-followers_a = data[choice_a]['follower_count']
-followers_b = data[choice_b]['follower_count']
+  is_correct = check_answer(guess, a_follower_count, b_follower_count)
 
-# Check for winner
-winner = ""
-if followers_a > followers_b:
-    winner = "A"
-
-elif followers_b > followers_a:
-    winner = "B"
-    choice_a = choice_b
-
-
-if player_choice == winner:
-    print(logo)
+  
+  
+  
+  if is_correct:
+    clear()
     score += 1
-    print(f"You're right!!!  Current score: {score}")
-else:
     print(logo)
-    print(f"Sorry, that's wrong.  Final score: {score}")
+    print(f"You're right!  Current score: {score}.")
+    
+  else:
+    clear()
+    game_should_continue = False
+    print(logo)
+    print(f"Sorry, that's wrong.  Final Score {score}")
+
+
+
+    
