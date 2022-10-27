@@ -1,7 +1,7 @@
 from art import logo, vs
 from game_data import data
 import random
-from replit import clear
+# from replit import clear
 
 
 def format_data(account):
@@ -51,13 +51,13 @@ while game_should_continue == True:
   
   
   if is_correct:
-    clear()
+    # clear()
     score += 1
     print(logo)
     print(f"You're right!  Current score: {score}.")
     
   else:
-    clear()
+    # clear()
     game_should_continue = False
     print(logo)
     print(f"Sorry, that's wrong.  Final Score {score}")
